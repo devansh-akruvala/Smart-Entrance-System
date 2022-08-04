@@ -52,5 +52,7 @@ The PyFirmata module is used to control the arduino using python. The user can d
 
 Here is the demo of the module 2: (Enable the volume to hear the machine's voice) 
 
+https://user-images.githubusercontent.com/61865437/182763369-44b395a4-103c-4a44-9b32-673625280f00.mp4
+
 
 
